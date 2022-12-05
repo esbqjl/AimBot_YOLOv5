@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['Enemy-Alive', 'Enemy-Dead', 'Friendly-Alive', 'Friendly-Dead', 'Gun', 'Knife', 'Webcam']
+
+roboflow:
+  workspace: capstone-2-nqg0k
+  project: csgo-yolo-5zjju
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/capstone-2-nqg0k/csgo-yolo-5zjju/dataset/1
