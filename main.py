@@ -1,8 +1,3 @@
-# _*_ coding : utf-8 _*_
-# @Time : 2022/6/29 19:02
-# @Author : Lucid1ty
-# @File : main
-# @Project : Yolov5ForCSGO
 
 import numpy as np
 from aimcsgo.grabscreen import grab_screen
